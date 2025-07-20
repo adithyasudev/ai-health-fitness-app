@@ -109,7 +109,7 @@ Made with 💪 by Adithya Sudev
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page with Input Sidebar  
-![Home Page](https://i.ibb.co/yqJrvfB/home-page.png)
+![Home Page](https://i.ibb.co/hrddLwv/homepage.png)
 
 ### 📋 Generated Weekly Plan  
 ![Weekly Plan](https://i.ibb.co/TqxD36M/weekly-plan.png)
