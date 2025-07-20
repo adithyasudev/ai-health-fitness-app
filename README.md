@@ -114,8 +114,11 @@ Made with 💪 by Adithya Sudev
 ### 📋 Generated Weekly Plan  
 ![Weekly Plan](https://i.ibb.co/TqxD36M/weekly-plan.png)
 
+
 ### ✅ Motivational Tips Displayed  
 ![Motivational Tip](https://i.ibb.co/gMm6T3t/motivational-tip.png)
+
+
 
 ---
 
