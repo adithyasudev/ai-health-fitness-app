@@ -106,20 +106,25 @@ Made with 💪 by Adithya Sudev
 
 ## 🖼️ Screenshots
 
-### 🏠 Home Page with Input Sidebar
-![Home Page](https://ibb.co/hrddLwv))
+## 🖼️ Screenshots
 
-### 📋 Generated Weekly Plan
-![Weekly Plan](https://ibb.co/TqxD36Mr))
+### 🏠 Home Page with Input Sidebar  
+![Home Page](https://i.ibb.co/yqJrvfB/home-page.png)
 
-### ✅ Motivational Tips Displayed
-![Motivational Tip](https://ibb.co/gMm6T3tz))
+### 📋 Generated Weekly Plan  
+![Weekly Plan](https://i.ibb.co/TqxD36M/weekly-plan.png)
+
+### ✅ Motivational Tips Displayed  
+![Motivational Tip](https://i.ibb.co/gMm6T3t/motivational-tip.png)
+
+---
 
 ## 🎥 Demo Video
 
-Watch a full walkthrough of the app in action:
+Watch a full walkthrough of the app:  
+👉 [Click here to watch on Vimeo](https://vimeo.com/1102866319)
 
-[![Watch the video]((https://vimeo.com/1102866319?share=copy))
+
 
 
 
