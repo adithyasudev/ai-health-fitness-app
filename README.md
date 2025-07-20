@@ -86,14 +86,14 @@ Edit
 openai = "your_openai_api_key_here"
 Click Save and redeploy the app.
 
-###📁 Project Structure
 ai-health-fitness-app/
 │
-├── app.py                  # Main Streamlit app
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
+├── app.py                  # Main Streamlit app  
+├── requirements.txt        # Python dependencies  
+├── README.md               # Project documentation  
 └── .streamlit/
     └── secrets.toml        # (NOT pushed to GitHub) API keys for local use
+
 
 ###🧠 Powered By
 Streamlit
