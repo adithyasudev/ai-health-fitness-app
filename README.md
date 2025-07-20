@@ -108,15 +108,16 @@ Made with 💪 by Adithya Sudev
 
 ## 🖼️ Screenshots
 
+
 ### 🏠 Home Page with Input Sidebar  
-![Home Page](https://drive.google.com/file/d/1bSk-OmNfqTDdKIRx0c5repUQwNTnIPQ1/view?usp=sharing)
+![Home Page](https://i.ibb.co/JW1YFGZG/Ai-health-app-screenshot.png)
 
 ### 📋 Generated Weekly Plan  
-![Weekly Plan](https://drive.google.com/file/d/1m2nhbjXXAVU5iHRrX_0x2FTss-L6xvK6/view?usp=sharing)
-
+![Weekly Plan](https://i.ibb.co/PzvsHKGt/generated-query-screenshot.png)
 
 ### ✅ Motivational Tips Displayed  
-![Motivational Tip](https://drive.google.com/file/d/1kJ96kWcui2D2c83IqvmO_11yaCb9DG7H/view?usp=sharing)
+![Motivational Tip](https://i.ibb.co/ns6RcbQz/motivation-ai-generted.png)
+
 
 
 
