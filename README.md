@@ -109,14 +109,14 @@ Made with 💪 by Adithya Sudev
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page with Input Sidebar  
-![Home Page](https://i.ibb.co/hrddLwv/homepage.png)
+![Home Page](https://drive.google.com/file/d/1bSk-OmNfqTDdKIRx0c5repUQwNTnIPQ1/view?usp=sharing)
 
 ### 📋 Generated Weekly Plan  
-![Weekly Plan](https://i.ibb.co/TqxD36M/weekly-plan.png)
+![Weekly Plan](https://drive.google.com/file/d/1m2nhbjXXAVU5iHRrX_0x2FTss-L6xvK6/view?usp=sharing)
 
 
 ### ✅ Motivational Tips Displayed  
-![Motivational Tip](https://i.ibb.co/gMm6T3t/motivational-tip.png)
+![Motivational Tip](https://drive.google.com/file/d/1kJ96kWcui2D2c83IqvmO_11yaCb9DG7H/view?usp=sharing)
 
 
 
