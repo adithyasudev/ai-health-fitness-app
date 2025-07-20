@@ -3,7 +3,8 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 
-api_key = st.secrets["OPENAI_API_KEY"]
+api_key = st.secrets["api_keys"]["openai"]
+
 
 
 # Load environment variables from .env file
