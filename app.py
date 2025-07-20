@@ -43,9 +43,9 @@ if st.sidebar.button("Generate Plan"):
         """
 
         try:
-            # Call OpenAI GPT-4 using new SDK
+            # Call OpenAI GPT3.5-turbo using new SDK
             response = client.chat.completions.create(
-                model="gpt-4",
+                model="gpt-3.5-turbo",
                 messages=[
                     {"role": "system", "content": "You are a helpful health and fitness assistant."},
                     {"role": "user", "content": prompt}
