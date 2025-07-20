@@ -7,13 +7,10 @@ api_key = st.secrets["api_keys"]["openai"]
 
 
 
-# Load environment variables from .env file
-
-
 # Initialize OpenAI client with API key
 client = OpenAI(api_key=api_key)
 
-# App title and config
+# App title and configuration 
 st.set_page_config(page_title="AI Health & Fitness Plan Generator")
 st.title("🏋️ AI Health & Fitness Plan Generator")
 
@@ -40,7 +37,7 @@ if st.sidebar.button("Generate Plan"):
         The plan should include:
         1. A daily workout plan (simple & actionable)
         2. A daily meal plan (breakfast, lunch, dinner)
-        3. One motivational health tip
+        3. One motivational health tip with a quote of health experts
 
         Format the output clearly with titles for each day.
         """
@@ -48,7 +45,7 @@ if st.sidebar.button("Generate Plan"):
         try:
             # Call OpenAI GPT-4 using new SDK
             response = client.chat.completions.create(
-                model="gpt-3.5-turbo",
+                model="gpt-4",
                 messages=[
                     {"role": "system", "content": "You are a helpful health and fitness assistant."},
                     {"role": "user", "content": prompt}
