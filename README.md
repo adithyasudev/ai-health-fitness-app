@@ -106,9 +106,6 @@ Made with 💪 by Adithya Sudev
 
 ## 🖼️ Screenshots
 
-## 🖼️ Screenshots
-
-
 ### 🏠 Home Page with Input Sidebar  
 ![Home Page](https://i.ibb.co/JW1YFGZG/Ai-health-app-screenshot.png)
 
